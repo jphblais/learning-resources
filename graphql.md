@@ -5,6 +5,7 @@
 * [How to GraphQL](https://www.howtographql.com) <-- Videos
 
 ## Examples
+* [Schema Stitching/Merging](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37)
 * [Nested schema exemple](https://gist.github.com/xpepermint/7376b8c67caa926e19d2)
 * [GraphQL Hub](https://www.graphqlhub.com/)
 * [My own sandbox](https://github.com/jphblais/social-aggregator)
